@@ -7,9 +7,7 @@
 #
 # Variables
 LD_SERVER=0
-
 LD_BASEDN=0
-#replace the vakue with your CA certificate URL
 LD_CACERT=0
 
 yum install -y openldap-clients nss-pam-ldapd
